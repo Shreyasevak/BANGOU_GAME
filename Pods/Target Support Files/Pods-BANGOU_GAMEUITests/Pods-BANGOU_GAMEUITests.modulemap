@@ -1,0 +1,6 @@
+framework module Pods_BANGOU_GAMEUITests {
+  umbrella header "Pods-BANGOU_GAMEUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
